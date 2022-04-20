@@ -1,0 +1,9 @@
+.hero {
+    background-image: url("../images/baner-right-image-01.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+}
